@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="StrutsHibernatePractice"
+  id="myeclipse.1719055061507"
+  context-root="/StrutsHibernatePractice"
+  j2ee-spec="5.0"
+  archive="StrutsHibernatePractice.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
